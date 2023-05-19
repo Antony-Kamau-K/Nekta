@@ -1,0 +1,242 @@
+[
+    {
+        "merged": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-merged_res-29:/drawable_k.jpg.flat",
+        "source": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-main-31:/drawable/k.jpg"
+    },
+    {
+        "merged": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-main-31:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-merged_res-29:/drawable_d.jpg.flat",
+        "source": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-main-31:/drawable/d.jpg"
+    },
+    {
+        "merged": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-merged_res-29:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-main-31:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-main-31:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-merged_res-29:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-main-31:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-merged_res-29:/layout_activity_tips.xml.flat",
+        "source": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-main-31:/layout/activity_tips.xml"
+    },
+    {
+        "merged": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-merged_res-29:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-main-31:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-merged_res-29:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-main-31:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-merged_res-29:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-main-31:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-merged_res-29:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-main-31:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-merged_res-29:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-main-31:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-merged_res-29:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-main-31:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-merged_res-29:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-main-31:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-merged_res-29:/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-pngs-25:/drawable-ldpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-merged_res-29:/drawable_h.jpg.flat",
+        "source": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-main-31:/drawable/h.jpg"
+    },
+    {
+        "merged": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-merged_res-29:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-main-31:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-merged_res-29:/layout_flower.xml.flat",
+        "source": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-main-31:/layout/flower.xml"
+    },
+    {
+        "merged": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-merged_res-29:/layout_flower_layout.xml.flat",
+        "source": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-main-31:/layout/flower_layout.xml"
+    },
+    {
+        "merged": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-merged_res-29:/drawable_l.jpg.flat",
+        "source": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-main-31:/drawable/l.jpg"
+    },
+    {
+        "merged": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-merged_res-29:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-main-31:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-merged_res-29:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-main-31:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-merged_res-29:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-main-31:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-merged_res-29:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-main-31:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-main-31:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-merged_res-29:/drawable_e.jpg.flat",
+        "source": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-main-31:/drawable/e.jpg"
+    },
+    {
+        "merged": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-merged_res-29:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-main-31:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-merged_res-29:/layout_activity_online.xml.flat",
+        "source": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-main-31:/layout/activity_online.xml"
+    },
+    {
+        "merged": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-merged_res-29:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-pngs-25:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-merged_res-29:/layout_activity_flower_activiyty.xml.flat",
+        "source": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-main-31:/layout/activity_flower_activiyty.xml"
+    },
+    {
+        "merged": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-merged_res-29:/drawable_i.jpg.flat",
+        "source": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-main-31:/drawable/i.jpg"
+    },
+    {
+        "merged": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-merged_res-29:/xml_backup_rules.xml.flat",
+        "source": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-main-31:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-merged_res-29:/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-pngs-25:/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-merged_res-29:/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-pngs-25:/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-merged_res-29:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-main-31:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-merged_res-29:/drawable_b.jpg.flat",
+        "source": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-main-31:/drawable/b.jpg"
+    },
+    {
+        "merged": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-merged_res-29:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-main-31:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-merged_res-29:/layout_list_item.xml.flat",
+        "source": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-main-31:/layout/list_item.xml"
+    },
+    {
+        "merged": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-merged_res-29:/xml_data_extraction_rules.xml.flat",
+        "source": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-main-31:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-main-31:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-merged_res-29:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-main-31:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-merged_res-29:/drawable_f.jpg.flat",
+        "source": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-main-31:/drawable/f.jpg"
+    },
+    {
+        "merged": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-main-31:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-merged_res-29:/layout_activity_main.xml.flat",
+        "source": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-main-31:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-merged_res-29:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-main-31:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-merged_res-29:/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-pngs-25:/drawable-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-merged_res-29:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-main-31:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-merged_res-29:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-main-31:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-merged_res-29:/drawable_c.jpg.flat",
+        "source": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-main-31:/drawable/c.jpg"
+    },
+    {
+        "merged": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-merged_res-29:/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-pngs-25:/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-merged_res-29:/drawable_j.jpg.flat",
+        "source": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-main-31:/drawable/j.jpg"
+    },
+    {
+        "merged": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-merged_res-29:/drawable_a.jpg.flat",
+        "source": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-main-31:/drawable/a.jpg"
+    },
+    {
+        "merged": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-merged_res-29:/layout_activity_add_prodcts.xml.flat",
+        "source": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-main-31:/layout/activity_add_prodcts.xml"
+    },
+    {
+        "merged": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-merged_res-29:/drawable_g.jpg.flat",
+        "source": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-main-31:/drawable/g.jpg"
+    },
+    {
+        "merged": "com.example.myapplication.app-merged_res-29:/layout_activity_main.xml.flat",
+        "source": "com.example.myapplication.app-main-31:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-merged_res-29:/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-pngs-25:/drawable-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-merged_res-29:/layout_activity_flower_caring.xml.flat",
+        "source": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-main-31:/layout/activity_flower_caring.xml"
+    },
+    {
+        "merged": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-merged_res-29:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-main-31:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-merged_res-29:/layout_activity_pay_option.xml.flat",
+        "source": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-main-31:/layout/activity_pay_option.xml"
+    },
+    {
+        "merged": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-merged_res-29:/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-pngs-25:/drawable-xxhdpi/ic_launcher_background.png"
+    }
+]

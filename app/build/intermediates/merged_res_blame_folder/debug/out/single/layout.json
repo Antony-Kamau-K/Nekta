@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-mergeDebugResources-28:/layout/activity_flower_activiyty.xml",
+        "source": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-main-31:/layout/activity_flower_activiyty.xml"
+    },
+    {
+        "merged": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-mergeDebugResources-28:/layout/activity_main.xml",
+        "source": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-main-31:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-mergeDebugResources-28:/layout/flower_layout.xml",
+        "source": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-main-31:/layout/flower_layout.xml"
+    },
+    {
+        "merged": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-mergeDebugResources-28:/layout/list_item.xml",
+        "source": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-main-31:/layout/list_item.xml"
+    },
+    {
+        "merged": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-mergeDebugResources-28:/layout/activity_tips.xml",
+        "source": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-main-31:/layout/activity_tips.xml"
+    },
+    {
+        "merged": "com.example.myapplication.app-mergeDebugResources-28:/layout/activity_main.xml",
+        "source": "com.example.myapplication.app-main-31:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-mergeDebugResources-28:/layout/flower.xml",
+        "source": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-main-31:/layout/flower.xml"
+    },
+    {
+        "merged": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-mergeDebugResources-28:/layout/activity_add_prodcts.xml",
+        "source": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-main-31:/layout/activity_add_prodcts.xml"
+    },
+    {
+        "merged": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-mergeDebugResources-28:/layout/activity_online.xml",
+        "source": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-main-31:/layout/activity_online.xml"
+    },
+    {
+        "merged": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-mergeDebugResources-28:/layout/activity_flower_caring.xml",
+        "source": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-main-31:/layout/activity_flower_caring.xml"
+    },
+    {
+        "merged": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-mergeDebugResources-28:/layout/activity_pay_option.xml",
+        "source": "/home/emobilis/AndroidStudioProjects/FitnessSportsApp-YT-Tutorial/daemon/8.0/com.example.myapplication.app-main-31:/layout/activity_pay_option.xml"
+    }
+]
